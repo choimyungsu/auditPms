@@ -1,0 +1,1 @@
+unhandled exception:'ascii' codec can't encode characters in position 30-34: ordinal not in range(128)
